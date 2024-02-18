@@ -1,5 +1,8 @@
 👋 Hi, I’m My Truong.
-🌱 I’m interested in Software Engineering.
+
+🐳 I’m interested in Software Engineering.
+
+:fire: I enjoy learning and sharing. I hope to bring something useful to you.
 
 
 <!--
