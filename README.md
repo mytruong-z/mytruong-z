@@ -92,7 +92,7 @@ Homepage: <a title="CSlant" target="_blank" href="https://cslant.com"><img heigh
 ## ***📊 GitHub Profile Stats - Streak Statistics***
 
 <div align="center">
-  <img  alt="mytruong-z's github stats" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mytruong-z&show_icons=true&count_private=true&theme=react&hide_border=false&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+  <img  alt="mytruong-z's github stats" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mytruong-z&show_icons=true&count_private=true&theme=react&hide_border=false"/>
   <img alt="mytruong-z's Streak star" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mytruong-z&theme=radical" data-url="https://github.com/DenverCoder1/github-readme-streak-stats"/>
 </div>
 <br>
