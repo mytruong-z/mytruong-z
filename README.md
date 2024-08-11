@@ -61,15 +61,15 @@
 </div>
 
 <p align="center"> 
-  <a style="text-decoration:none" href="https://leetcode.com/ngocmytrg/">
+  <a style="text-decoration:none" href="https://leetcode.com/ngocmytrg/" target="_blank">
     <img style="width:60%" src="https://leetcard.jacoblin.cool/ngocmytrg?theme=nord&font=Ubuntu&ext=contest"/>
   </a>
 </p> 
 
 <div align="center">
-  <a href="https://www.leetcode.com/ngocmytrg"><img src="https://img.shields.io/badge/-Leetcode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
+  <a href="https://www.leetcode.com/ngocmytrg" target="_blank"><img src="https://img.shields.io/badge/-Leetcode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
   </a>
-  <a href="https://www.linkedin.com/in/trgngocmy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/trgngocmy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
 
@@ -77,7 +77,7 @@
 
 ### 📫 How to reach me?
 - Email: <a href="mailto:ngocmytrg@gmail.com">ngocmytrg@gmail.com</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/trgngocmy/">Ngoc My Truong</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/trgngocmy/" target="_blank">Ngoc My Truong</a>
 
 ### ✏️ My Blog 
 - [Medium](https://ngoc-my-truong.medium.com/)
@@ -88,7 +88,7 @@
 
 The **CSlant organization** is an organization that develops tools, products, and services to help everyone in the world.
 
-Homepage: <a title="CSlant" target="_blank" href="https://cslant.com"><img height="18px" src="https://avatars.githubusercontent.com/u/155535010?s=200&v=4"/> cslant.com</a>
+Homepage: <a title="CSlant" target="_blank" href="https://cslant.com" target="_blank"><img height="18px" src="https://avatars.githubusercontent.com/u/155535010?s=200&v=4"/> cslant.com</a>
 
 **Also, we can help you with your business, please get in touch with us at the following email address: <a title="CSlant" target="_blank" href="mailto:contact@cslant.com">contact@cslant.com</a>**
 
